@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Pittman",
+  "age": 50,
+  "address": {
+    "street": "Pinma Lane",
+    "city": "Basowiwe",
+    "state": "IN",
+    "zip": "84119"
+  },
+  "contact": {
+    "phone": "(852) 224-2605",
+    "servicePhone": "800591474"
+  },
+  "birthday": "1971-03-17T01:15:18.171Z",
+  "ip": "239.156.94.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Ume wu ca pegi gaje zukbevak duliwho ej zuvbewweh ber bibote ujucu kegehuzeh jo cecito asce oc. Womducok pah guwpawgup umvagbis gettepgaf cijez ojeumu kisizubas ledoco vokegig viikkun ajmeziw sojcobso. Dav giabrig ephalba uvwi cisu loh kecmuoj ven wi fovi vuvad mumokisi jeedo ipesahzi. Cocmu ritubuv of giah davlenato nusporu letrid eh tag ruw goraj uc noze nubfis urvu hadifpil. Gupa zorewav udico voruz kalim hotihi ruj tiobi oj gu sapagfas efpe tudgorsif hi sur voctetbuh catil. Bizji ge jo kahesepob regoj si ni ki ehdar eri ho tego je gikjumdo kev ken.",
+    "bio": "Gi acobo zu rapmoanu lim milisne vaw ilnij ufutow bu eg padwemuh. Ahi huwfarza id kesuwbot ag liwumpuv po icile nutih uppi japripej nadeva av wa namsouw. Ene poz ipirituk nabit ansah re suseboki joaji asuz fepguvic han bonbotibe heg fupev ohovasub pew ma dettegido."
+  },
+  "apiKey": "a6acc145b1d8fdaa80597dd72dcc20085b156b5544e5cbde91be5ef876107ff9",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
