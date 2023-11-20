@@ -1,0 +1,26 @@
+{
+  "name": "Stella Hoffman",
+  "age": 20,
+  "address": {
+    "street": "Nurva Center",
+    "city": "Ojamecil",
+    "state": "ND",
+    "zip": "01066"
+  },
+  "contact": {
+    "phone": "(586) 468-9597",
+    "servicePhone": "800627363"
+  },
+  "birthday": "2001-08-30T09:18:25.318Z",
+  "ip": "241.84.82.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Ges how ma urwejilo hu se huv edsiszaf pugihi buubi penitaf telub zali fo ra watien finbiik. Igevadi ru teki wese ek sanelet lacu gaelmok ewuforal elaret ej mu set beh hurapih hirkijmi. Ezobuti emmuvup sunip bu ivja suzpic uvusiwop jani ebudoz fepa pespu gu be. Ag ehehum duirgaj utefawkol mituthin gus don bogupo ocvo raca arnek guavzog kumad.",
+    "bio": "Kopgooba pod joba juvcec uzauh fiugeb aze osger goza macooni jigatut ge jenuv ri. Toko fujjame owma vublot sac ac nu suoh bemvot on ramlih lefura uhzev co keguuk tizrecli. Parneivi ofrac gitutfe jumezoj ezupure ugepono vur suk negni rowale fijtir upe big ge beren izkonkah. Utizinu hotihwa vijolbej nufvozi ho zal le vamjoz fipit anmi pu totpotka fa tajig hiasuwam. Pepref ojo nimjac suab ki kevudriw gaede ik jifavgu lulalvec bo nuuc enazuleh et jitrihiz ow vev ihar. Lelev dubese jidgutuz sela ebtizto bi silozimi cuszazone efu pibuvta fulco afe di wujohu vewep pis hibiwru."
+  },
+  "apiKey": "accd991362d1fc23b3d553977599a68c011d747043528353bba9b0191c30fa91",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
