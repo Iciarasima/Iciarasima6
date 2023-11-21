@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Kim",
+  "age": 26,
+  "address": {
+    "street": "Zokfu Lane",
+    "city": "Gelrukat",
+    "state": "LA",
+    "zip": "06009"
+  },
+  "contact": {
+    "phone": "(487) 958-7912",
+    "servicePhone": "800947947"
+  },
+  "birthday": "2001-05-11T16:44:50.126Z",
+  "ip": "92.171.160.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Vecup becakmal ma wuofava ronadde apu nikagrog guliggim mardormeb upoce ahvuv ahonu vaapi zasulu. Tavdupam co av kuwvozode egkulfe simtasuv umogurdus vihebtaz majcu von inelu fawom kipkaru. Ecdo jep bap fafpa bemaeni cez vulelze ufbas ze moavuoka fan salzuuzu dojfalo hukaw hiso hadnij rojeju. Ramki tegen hasahuz ibsamhig kipves cem woakiju ca pe pal ulewuzev bajesiro cejakuzu wa dorke tan.",
+    "bio": "Litmec miha cuwbi cuisrat guj vopkateg ifmin hedfuvni pevbew hedev wuhbib icikoat himo nis oguumi. Zovo redeloh buvipo jeira emo amuiwo safof ebzi osdifu fiwihaw seksac japor bolkandut. Pamogilu fi eztevma siplu ejabatoz su zuh wesopim di we epti kirumof fako zepri zo. Tebub ce doko jinvum leip nosuam jissu riihi da emmu fuhcumu sik. Gazjuwen wuvtim si asdufiru gatsuha zi ujri galpa wulzur cu elo son tuavugij ral dabauwu zaw."
+  },
+  "apiKey": "1f6c033d4cc443a955c5167e45015d5558f249a9d2777481d4cd07f79abb83ae",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
