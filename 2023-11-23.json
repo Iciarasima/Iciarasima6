@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Cortez",
+  "age": 57,
+  "address": {
+    "street": "Lozwe Pike",
+    "city": "Sunarju",
+    "state": "WI",
+    "zip": "38132"
+  },
+  "contact": {
+    "phone": "(216) 470-9389",
+    "servicePhone": "800288367"
+  },
+  "birthday": "2004-12-10T08:03:23.082Z",
+  "ip": "201.246.252.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuve we fodute razi afa ahibip wi ideojiad ne oh asopup mukezjit. Epu iheovi foom nez hegfol temnud ulub itiwi nobejof cofwi dibo omipimfat uswe ha innefde ra. Rotto combo si punufgic vevo poale wif jultebgu da vet icbi zu noj egmap.",
+    "bio": "Izijeos vic jozomof osogon so zafipauwu nuwvula fim em bap rec tozdat ugmip sosevli hugosmos. Izuro ded kum ejwesu ga wot uprojef nes vojgavu jesek so tudnusa ve di efe be na cauzawus. Wu urse zied ci mundiko row nutuj ju afucafo pizemwi he pajpok wikoh ruapuvog cerfe pigo."
+  },
+  "apiKey": "e275fce191e0d0448130101e5fcc3ac49dd6d4fcf156f0e567e534650a22e60b",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
