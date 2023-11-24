@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Gregory",
+  "age": 31,
+  "address": {
+    "street": "Ugaano Junction",
+    "city": "Sithobi",
+    "state": "KY",
+    "zip": "81721"
+  },
+  "contact": {
+    "phone": "(217) 996-6759",
+    "servicePhone": "800676343"
+  },
+  "birthday": "2003-12-21T21:23:06.612Z",
+  "ip": "49.43.47.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiga kefow suson zominilo ma gol galbilibo zipi zi gamiago fedgos cazhuktor je tistukwuc turazru vejohoike fi inva. Esi izume arabi cafuvud hudo fow ectek ho dohu juvgitco satuh ideravjo mo ac oj osati jifel wuruf. To aci tin bojorjeb zowrapi ceru bucituhew je ijuma dojzodah aruleve diofruk ujumi lodoskoc jidona ce nisu mov.",
+    "bio": "Ojotif umoluf jotaha lamlutuc ej cupremap cipda pagob uwuziome tik wu irojeto uhovemi dosiluk sututemu ocazouwu fom. Di tat bunif li cob avlimde wed luzsiv epbe fagimaje zigmucde fo bafcahus. Ti kepzog cagu egafile vab jo hujdo wec sobeb hotab mu fabena."
+  },
+  "apiKey": "42f3b117c03d6e35c6db704f19f0370f37dc153c8c63afb408eb20819a816a75",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
