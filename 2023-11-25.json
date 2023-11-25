@@ -1,0 +1,26 @@
+{
+  "name": "Virgie Burns",
+  "age": 20,
+  "address": {
+    "street": "Dezis Turnpike",
+    "city": "Viavro",
+    "state": "NM",
+    "zip": "38219"
+  },
+  "contact": {
+    "phone": "(845) 607-7341",
+    "servicePhone": "800531193"
+  },
+  "birthday": "1966-11-07T20:37:54.485Z",
+  "ip": "69.221.123.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuiko wuvofwo pezename pukpa zemso ule zaj joeb wab ac bivi hip hofwagze. Efculor eva guzi vad je jaele lu ruj getuvri dini kawe ud talasfol eju piser enok. Vibwon ewi wecsecnir vubud acrasupu isu louveov mo emjod mugeli kifuv uhi roksan ewe maajwat enita ceta bokzi.",
+    "bio": "Amuhrol lawca ren oh lapuh izopiel lah zah sofwe ra col desir niwgokot me hajefof pe dojiseede. Rew zi mi kuk rita taozki ta umgabwo nudrul col laludor tibe guzobo vekjopi oce rot ne. Jocijfob po ir jo kajajna heznikiho rum zakotlim mobvuremo wemat pic cus tuz lawosan neocoput adgin fuklewvu bapka."
+  },
+  "apiKey": "2178fb799cece1e5c2860edc69099bce0d65ba7c6be64a23408ce13053159880",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
