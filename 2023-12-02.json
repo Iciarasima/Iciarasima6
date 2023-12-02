@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Banks",
+  "age": 45,
+  "address": {
+    "street": "Koviw Center",
+    "city": "Cussuwit",
+    "state": "DC",
+    "zip": "70597"
+  },
+  "contact": {
+    "phone": "(901) 288-3481",
+    "servicePhone": "800959736"
+  },
+  "birthday": "1993-03-26T14:28:28.165Z",
+  "ip": "16.88.92.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Ah lagmahna bese ned nu sibup uki fablej pobwo sispivig notope uce. Ri sookgut bu di hipehse dokmok zizosdi ah kuzco puzri dosic foki igirar sogan casab luwu rusruvec. Cuvlamis bodabdo na lu nace fujkup ferasub mo bamizabu virperfa ekuonoz fekozgih deehe liwop zu cuponi hu hoddi. Embo egbe wiwbu dek wiz ri zudehow bakuvhah zug sak juunori uh hos remosuad.",
+    "bio": "Likmu gomsuh hatvevad pe ipa fijwetpi ce edi venfi roujiehu vopudos do mephu vahu. Hutuzew hisi ni wenwa fa akouh disip hoepewi vuc jeh jicsiv ka enkeba ar jez emuarebe wafecid. Ihbojo zagtik fuv lap muz jukgo lunobagi dil wi vumfuat pokwej ulhuc lenre vejcuc. Jomvo rusizaj vofunid locowof rovu bahwev zomsu gacer ivebebtam sieppot cutabhon pef se bi lutidpe cisga. Tauswiv uzge asa fujpe sel burgelobu vanrupwo vewnivupi ta haevese fufitoho tad dalecu uriub."
+  },
+  "apiKey": "630962f4eaf47f2c91880bd9afdb4db4e3858ee6b1cf73b0107850a5e6fd68ea",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
