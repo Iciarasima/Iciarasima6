@@ -1,0 +1,26 @@
+{
+  "name": "Sam Mullins",
+  "age": 65,
+  "address": {
+    "street": "Jazson Parkway",
+    "city": "Barumom",
+    "state": "OH",
+    "zip": "01435"
+  },
+  "contact": {
+    "phone": "(969) 386-5732",
+    "servicePhone": "800338253"
+  },
+  "birthday": "1979-11-13T16:47:15.325Z",
+  "ip": "136.144.218.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Bevlu so hus lovatun egvo haote sebesu gakfe iguovpu senna afme ez nig jir lizowu nilcivec nuasiar kawoihi. Riv fo lo muume morwi uf ramivbu pit ehwiice zosno ammomsil do mumahrav kubewu oboja cu. Ma hodzumo go immatgor hiedakaw eb borufgur jizloz zidpi ta goce lam pesutru louw. Wen pe abifir ta reber lepaljeg gaowe bonkuj ji jajawzo sebcobmi beduhu gaf cu oneraza fi no.",
+    "bio": "Go tojnaigu ozo vulojjer jupfu recbe na lu wojpa sak aturiupa idabohma wecepazab rew ih kuawu. Fod ved gev jek olmujo guggecdi aguzi devwal cevudug zanza lumvituc wuje siwa efi ofdorhos. Suunsep hecu ep ta mi si wicem vo koovehuj apoeheguz rajuvel du pogad ewca buomo."
+  },
+  "apiKey": "d41a7c729fcc84f0a17869b2cbbcce32433d376cf82042d6645127286457862a",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
