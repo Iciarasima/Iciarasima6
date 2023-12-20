@@ -1,0 +1,26 @@
+{
+  "name": "Andre Campbell",
+  "age": 40,
+  "address": {
+    "street": "Otbaj Mill",
+    "city": "Izjugbo",
+    "state": "SD",
+    "zip": "36536"
+  },
+  "contact": {
+    "phone": "(976) 933-9182",
+    "servicePhone": "800785477"
+  },
+  "birthday": "1990-01-25T03:11:33.209Z",
+  "ip": "151.34.211.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu va usrina ek mokmowew juce re sidbek alonuvaz sa zomdel vuhilaf ti ho. Gununep sodno nu homidit anwupgem nabeloimo aroihbip uzuawuwu juvofdi zalmurud ajobac gizonji epobej agocaz. Azo ohijohi ucolpoh biilose pilu ogigojem pud wuwisegap lawniena fabon dafouv vumcaek gomem pimumref.",
+    "bio": "Vijmuas nuuho udkeb ciprav rehiedi lev pihonfas tetnieb di lego jin ovvavgek emol fuzojced wihoz liirlu. Wovwewobe ucwa agohivpif guelbol ebiip rip niataro iridul comona nen powtidi fewasoj apiwi oculaaki. Hoginew daji mehupdos osriprit ne ra hulas gibaeno fala su ziglepani re tobhed wulake upda nus vur emowes."
+  },
+  "apiKey": "7654b9395bebd2d4d60983d0f064fbb5a6ed854523e3918594b83ca9b6dc9482",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
