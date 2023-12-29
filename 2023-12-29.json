@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Daniels",
+  "age": 21,
+  "address": {
+    "street": "Gotzun Avenue",
+    "city": "Evidcer",
+    "state": "OH",
+    "zip": "32925"
+  },
+  "contact": {
+    "phone": "(803) 746-9245",
+    "servicePhone": "800886885"
+  },
+  "birthday": "1976-03-08T21:25:36.931Z",
+  "ip": "94.0.74.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Sun uvimo we so huv susnizu juwbaita alfiso sakef wif nefiw bubtej. Ga kiki vamahta hazuf ev damim pu sutnaren zatujran mub uwoulu om enbawam sur igfuz caf ode dozug. Tif leved vuc esroj rihitgin pitulru fu ciupo jehijof ottosi nelepi karewut bi hudan favorro taphuvsi.",
+    "bio": "Zivceuna kakugek ja okeezicec sooz inurlew guguluwi oso dawan teze biwnara basudi fowkabor libikav. Bawbetug ohiwojise obbow tepfoali ila upnouca eredu jovtuwse dojid ninso vaigo neebtop. Hilmem fot era nuleko uwe firow rimmo ag ka puta zurun kufakos afzu ilujewum pulna. Jezev faucasu pahhofum zuole wojparhu novfuka ri sagceono agoef wokad biz mevwaam welulbac. Gopnuj hinujhu kaz jephabwow tutkihac ahe vikaek selut pe vuvi vorzulo dedelo. Iwcihek zos mosnazi ti kev niku dithirhun fek kuceh urnap we gujij vupcumop vopo hef ozsigdu mocdeaju zimuj."
+  },
+  "apiKey": "6bb6e862b01f1778ec657d0fc8f137bc22f8e8502bd26b9ec5b4d07645984b1b",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
