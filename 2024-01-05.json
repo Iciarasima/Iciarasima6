@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Moran",
+  "age": 24,
+  "address": {
+    "street": "Solom Terrace",
+    "city": "Aswonog",
+    "state": "VT",
+    "zip": "62845"
+  },
+  "contact": {
+    "phone": "(380) 569-5320",
+    "servicePhone": "800835131"
+  },
+  "birthday": "2004-07-28T23:30:18.175Z",
+  "ip": "27.99.119.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Bor dumgo vuflu rujfot zib mehu udo nikkojo cucedo kiil ezur pomawifo zimonipa occe de jofujwe motifvum tuowa. Eszadmu cuspub ozelep lehine meturaga jas dotiz oku ruvicahal ateluv daj law cetta ca. Riowa wicow buuzu as vofipomu otiozu voj fol zo egar ab hozu lebe he kebit kiregi piodiig dur. Gur ugumoagi jeku har jadjuvsi har takme gedezoci pu nep ke lu del vo zavgimrot bolfan.",
+    "bio": "Godde zupom icahume igzu jos vuhi musdok rapo ugemid ujjudih jifbusif raduvkuc. Honwor bedkezuz pebek gi ozelohgo ecrowlap wun ib ajenoj metiga gauv gu par nidtiv tihi up. Ihokutup akces hewe luwahten idabul la zosupe muluhup owocu ti vuroce ravugo na fiwafoz vekez iz."
+  },
+  "apiKey": "83b30f4c3f5dca883cc8b8d4a6e62f71ad357d957fe9dc046192dfdf2cdcd168",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
