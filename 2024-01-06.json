@@ -1,0 +1,26 @@
+{
+  "name": "Harold Dunn",
+  "age": 63,
+  "address": {
+    "street": "Sajbu Avenue",
+    "city": "Rucujgad",
+    "state": "WY",
+    "zip": "13334"
+  },
+  "contact": {
+    "phone": "(249) 678-5453",
+    "servicePhone": "800993346"
+  },
+  "birthday": "1970-07-29T04:04:12.360Z",
+  "ip": "86.209.17.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Kelefze parecec he hiup bipo il usiepiko vat nefgi filmucas dogfi mor ar hejoke bo ko meb mihvawle. Je fallu raj acumuibi ug li mo al feivru zi gi diazcow voc devde vause bah ete hocfiug. Ca ob sagbope ogemihrew udijijifi ko uwaavo rezuvke efuvuca lujcef lon he cihimi juebu zupo du.",
+    "bio": "Neoferad marulado povec cota wupca umipo aweru vu wure bilofmis makfu vewuif. Co duk gamki loke baljori ijauhulon ici za lasweto keduziri zohcusuke cah hi naije gec. Ava vej ahromis cerwep pag fir seswu rimhuspe etfe poojoniz likgoz jotiwa sus oza fiwapa."
+  },
+  "apiKey": "b4e6d1a694a50d0c7f0463595004291466341bcba3ee3b40a5f17a7d43461107",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
