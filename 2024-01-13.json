@@ -1,0 +1,26 @@
+{
+  "name": "Alex Campbell",
+  "age": 42,
+  "address": {
+    "street": "Imib Heights",
+    "city": "Tashowgi",
+    "state": "LA",
+    "zip": "50454"
+  },
+  "contact": {
+    "phone": "(466) 371-4810",
+    "servicePhone": "800959961"
+  },
+  "birthday": "2005-02-05T18:03:24.400Z",
+  "ip": "13.81.227.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Dopu zal sedego ibiwiv kihe galiulu aziv uz fa zigromi banne of bevtozge ju onutur ba. Nadsajfu hedan cu aprubdu dowseate unasien welu kip nudiz um low ra ko venbek nieramaf. Binfa onlucu mu rep wor jutbacab zahmof wo regfata ut umi faz. Upo momarob cemheoni kuzbavez cicji ge kijesi odti seli reivi da fesuw zoggob. Pas luvabawuk wi tibjab lurilme bilod si gi dauweaj une porabiga satozsah jit tageta pu pi.",
+    "bio": "Mohace zaf fuworula ivaherko maog hewjo capu cucwoktov nocasen atvas iv kesgogmok parjisos hougula. Bi mirkec waw je sesu mo rihepi fo jesi uco tajtu timud zasnu jed cape romecebuf iludoj. Ni to he mo sapozjo ijtolmep hanvuve tereme pamom uwi un diwov ata mov. Bahlez giw ijated ucho tul nagzilo pamecpe buwlolev fipa duj mihtoj nom cobhetma. Uz tebake fejbi eheohik hivgiun dille fuabaaj fizew otace tac kuk miwco sorcej de et ebeput mednizlis. Wel maema uzufu leba ezitobug onewu niefida petizaw ejouji gibmedaf tacoh gaod enni."
+  },
+  "apiKey": "4dd2f9552b049e514cfed441dfbd9044e5c4fe6770297e0ac642af15441ec269",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
