@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Warren",
+  "age": 47,
+  "address": {
+    "street": "Moasa Key",
+    "city": "Pamuwwel",
+    "state": "TN",
+    "zip": "03615"
+  },
+  "contact": {
+    "phone": "(342) 456-9391",
+    "servicePhone": "800846518"
+  },
+  "birthday": "1961-10-11T18:39:29.399Z",
+  "ip": "125.111.68.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi tu wojboj can upnu su vu vecugouz rute vofpu nof ribvujo amwida pakkofo ke jogivfo. Mo zi nor lihvohli lu suvrisaco lobekke su vusoz wa ivbas om lel tanuv pa soceru. Ocebas zu coropza kemubiv namueg du dipigjo jowod ku octi siipahas ulegojic na rowuvvu ida pewetos.",
+    "bio": "Moomooh bapgo bad los johovo tohpal fazwo koktuz gagapu nek mamivo dih lihfe wu simef ilfacruh rokjibik. Gekreb budu wu paufeso sejibi mipja johashu jeilod gaokinu facrirmo sipkuj ulo ecobib magolof pudarkel hi. Cotifnu fehe fu tej epijuful nonas ebteb tupmeje kobipkil dibnepfik puvi umo mimva ra cin."
+  },
+  "apiKey": "2a31b18b3596033935571b71099f5865ec2fc585134a31d8a7241624d2b9a04f",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
