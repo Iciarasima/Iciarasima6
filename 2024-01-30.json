@@ -1,0 +1,26 @@
+{
+  "name": "Gary Roberson",
+  "age": 47,
+  "address": {
+    "street": "Vivwe Lane",
+    "city": "Ragonji",
+    "state": "AR",
+    "zip": "14144"
+  },
+  "contact": {
+    "phone": "(304) 512-5261",
+    "servicePhone": "800254853"
+  },
+  "birthday": "1963-01-08T23:51:05.957Z",
+  "ip": "198.249.109.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga dadji jubasliv ri fes tejon wojemjof sol tokar va wo uw nezkusuro leutkem. Kurrar bucjojjun zejezgor akora weak rimvi iwuju toh cuz duja cot pi la. Ejwu jim lo hewi ki ij nawcu admol soha tu eh ifu ujnafo ced.",
+    "bio": "Ov pisa uf ju be upa kac ito izi was soz pig gumvug hakle novutofuz. Paom keefegi iki wad nikifni miztu fu jarnaftu perih bofoig sohgu vitazo fa cinofa rigigmu wit tu. Agjecduj pa malacro ipuruc hucna uj pi re nok jermo roh udtek."
+  },
+  "apiKey": "15308ab7a69ea58bac33691cc71784cef0c525d863699e15897f1f707e3b947d",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
