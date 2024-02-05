@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Mendoza",
+  "age": 23,
+  "address": {
+    "street": "Lalu Boulevard",
+    "city": "Medomri",
+    "state": "NC",
+    "zip": "74264"
+  },
+  "contact": {
+    "phone": "(838) 657-9694",
+    "servicePhone": "800529325"
+  },
+  "birthday": "1994-04-27T17:17:25.856Z",
+  "ip": "165.172.209.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Log nicet jenevofa mutu nitnoir falbew wogrugo ru zaviwoufo zuvetna resci buge colehmez uju. Soeccul lakamiz pe odiriso parvog hijorbuv nu pajfuh budwilos he penas zowe. Dolpe cuhafiri jesazpu dafgoke sew ubuviv rig ro cu biho ubo havuz jegse ipamo.",
+    "bio": "Woj gomuhiwuh ozpobof saacemup buze hibuk utnizi nimvolhi wecadu pargin goto regoz esouwe luzaebu wijucsu muopu ozhob. Etriksun bankuw ohmu hisofe izi vehefih kaer espo up fek la sucmine goeg zewe. Lac tu am ke hinohjow suhahbas miczi lo vubiriz dupjak okkepu metme tof ta ir ofovho vubaj."
+  },
+  "apiKey": "c60472ff80450e838fefeff87efa4195ea6fdd31ec781723b645a3cd0c69a3c9",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
