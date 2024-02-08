@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Floyd",
+  "age": 40,
+  "address": {
+    "street": "Corar Glen",
+    "city": "Ohjuci",
+    "state": "WV",
+    "zip": "51421"
+  },
+  "contact": {
+    "phone": "(820) 320-2439",
+    "servicePhone": "800324243"
+  },
+  "birthday": "1985-08-16T16:06:29.605Z",
+  "ip": "121.111.245.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Vav sipte mu neune konetivo focor ho ubu em fe ahohur jowe zed. Ovvohvi lufude ra luki ah sepegki wopehus pawufa gusjamdep unbike odopike humtah we ej. Wus di lenu iwiawa jonucwul ferno coew ibujorkuk atu hig ta fu.",
+    "bio": "Hog godbupuv pif zim ulhekbo esceshu jeblohegu zenuceg ma nigak sesfik imedoej ugwih ga fatveh oko caavuka. So isauk kevza pim enuohgu zifhissuh veape lim zothitgij iru edizah wuhekupuh unaaga ikuuwca zoj. Faszed co tejotwos dehag levbikru azu bozib kunzerer moltuvno pimimzob ja dahar fevur milkuhe amhep jusoveda kimpetmot."
+  },
+  "apiKey": "40ca1a3ca42c781a8b3bce6903716e607e5a4edc43e80d9215bb62a9dd031d79",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
