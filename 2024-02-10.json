@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Roberson",
+  "age": 33,
+  "address": {
+    "street": "Zidboj Street",
+    "city": "Hacpejil",
+    "state": "GA",
+    "zip": "09910"
+  },
+  "contact": {
+    "phone": "(884) 486-7327",
+    "servicePhone": "800668695"
+  },
+  "birthday": "1986-10-24T12:13:20.233Z",
+  "ip": "194.69.208.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Lobili fekupfew cuenaog wib oserijaj uje ivuobu besi webabhu medwik dobegumiz kirvug ado ijikik. Com tiglevja guvozhic za zuw za cedrut bovaud gafin kecodo di wov. Ku bad teeh ipi besodpi sunofli kijulno tucovo fal kodamug fi ebzirgav niefnab.",
+    "bio": "Zi wi mewwenoz bazak padamo vaksejzo ji inpij uduenaja agfuvi dusribkez gu bawkidced hugebod govfi efa. Jovke inimogbot hibisu kuleam bo wan fo zuc nifoj vasmoder epmo duhe tu giikuwal rizehwi mab ukibnob. La jagebiduw fiso mupfubbet nu tuedro val pofage kosi wewuglil piwa kucnu od vuhzahle linmusul dap bafzeb ludiva."
+  },
+  "apiKey": "a35f391d42b2a75d301fc6309c7eac88582a18422a36ca3a4210531f4c9b5837",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
