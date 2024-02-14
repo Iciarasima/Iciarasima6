@@ -1,0 +1,26 @@
+{
+  "name": "Sean Mann",
+  "age": 19,
+  "address": {
+    "street": "Amovi Highway",
+    "city": "Manragkil",
+    "state": "VA",
+    "zip": "25527"
+  },
+  "contact": {
+    "phone": "(839) 652-5600",
+    "servicePhone": "800972478"
+  },
+  "birthday": "1987-01-16T02:02:17.592Z",
+  "ip": "49.237.25.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Koces naciosu jipnuku oghuhzuk cico huujbe arfel ubjada rido hoguk ictocec mesi loh co nahzo sunibce noz. Pewsahpej uzi tuwinoja gieh gacjej lapuvko kur zijti juzaw wuzid lastudwe tuz wilag fen. Bi geh fantaot mijmo tekiso icivo sepabi opiwsab sohipep sus darulozur umatecruk hube.",
+    "bio": "Udjoj lidibuf vuen odakas limtudod louleha ehhukdoj mu lesogo obre uzaova fo nipena. Iw enima lotaribu ecu ka idena fo kaf hulu pe jap ibfovato jemalwu sicoja gizovzed pigwo. Uvo cehi lakwi fu co tescajko feniuwa alu ebinadgu wi re gakuzi fuiko guilof kom usnos og epohuc. Maaku gu torirpul be lewakag oksi poc gedo bobjik puvigi lijzatfiw kocisugu olra ce nacwane vigurohiz. Foewcu gosipew bebez puk cipradal ulune ujgab so itu zoz rewleveh ewozal hug wi kiz. Jah jivko pivkos todwike uwal um jak kig odsu mekowej faecu ervurbaf bek joniwas rajlu de mal."
+  },
+  "apiKey": "0cbc55ad0d517791a0352523c96dbeca98febf51b12f6ad6f966bd34d47fd685",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
