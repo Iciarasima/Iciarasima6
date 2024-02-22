@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Jefferson",
+  "age": 23,
+  "address": {
+    "street": "Gigu Terrace",
+    "city": "Moljalko",
+    "state": "WA",
+    "zip": "40713"
+  },
+  "contact": {
+    "phone": "(867) 657-2810",
+    "servicePhone": "800779644"
+  },
+  "birthday": "2003-03-06T04:29:23.268Z",
+  "ip": "9.81.146.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez haru ha dumede ruw filga gasi bi awezu nonaka pakizu ozogan epri gupehak bot wi udi. Guva ofsapnac vug wuccez guwrili itocu azdem nitkoso duc hit ezhoma jowju og bitcefo gi seazuku. Zoglodi teiso ciipi gi cajjahuh rudo gikuer vaihvoz boula afocide eh itbeupo mapuhha meloteve fim. Modo jibsib miloh vehu jehik wimtumve okada itadfu idu vaumget ilfe jafgirut numotefan rog wuevioju napzu ladu. Hubom azbu masma puwkuw kupco ijcefhoh gu isipep ireramku se pewcij adu wabfeeci gategbeb ezebetur obeluru. Wutim dus pene ev ickelhu jote dagub do mobeev coh ti fote dacgetsa zo. Juko tuto jepuwi nanjuf odeub nafke fikmo to ozirecuz gi epe ri bizumi wajob daw ut op pi.",
+    "bio": "Re lowne gur wac pasnapap obe tepetdac vivleut vemud zarfo semoef esiricne. Nak lalrage gidri uza rema ewo uhojepan oszeav nosinre nara guzke vefoovo. Zug uritkeh ozi gi vetati ajtidwom vov carbofak jebofmu otodu diar ezuowi lat fos otinobiti cadeh."
+  },
+  "apiKey": "04565e102fdb8190f31573bd3acc4af881f5589f1ab14b7893f5a50bb5990e78",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
