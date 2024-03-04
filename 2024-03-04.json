@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Wise",
+  "age": 42,
+  "address": {
+    "street": "Zomwid Way",
+    "city": "Gedaren",
+    "state": "MO",
+    "zip": "60444"
+  },
+  "contact": {
+    "phone": "(736) 914-7746",
+    "servicePhone": "800358945"
+  },
+  "birthday": "1998-07-23T17:24:28.324Z",
+  "ip": "184.69.43.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Wog ked napderlem maduwob kopbeugi opobambab kozoh rojvo ruz hifbe du ro bon olfilma ciifu kabibsip. Boleh dicnek rarvebneh em ficsor caste zekagec agozec usalove cisze sarrec ubobu jimti. Cepubfav abu kumcer ka abgas cagva sezhapid fareja bursav ahaiw jamiriodi foj sulomog cihkage erwatvo bowecsi dowga. Ogebuku cibasaf sedotun vizlino vefhor kijuano ezawic sijoasu zobrava acosi jaidujud lifipap ju tikeno.",
+    "bio": "Ida uzoab jofri ju fipviv rip suf lonrot jab di nedam mu vag heziznuz abu tuzpiz damotu nosnowor. Keipofa mipbenleb waergu ram vofnib no wir aruora codu ho niuspab opnu daz del hihecu god uvi donji. Vuhfo rekheva hodsu iwekho gaomaug fiet du vomfassep nofnolnuf bul jid rejak zamwatu ehocufih bad. Lefiju osu hizele bopud gaven siniza taz nipiw an legu tifit lemno av bekabpas fasik utupaz tupi ri. Guuli igcewe fepislab uhdesle ro cabamev wanguco fuzrat fumpuez jonunana fubibsub webev fah fim iwi."
+  },
+  "apiKey": "8b0b9756dd9ab5563e8a0b86f652cfb12dc01f920f67e4165e33ce6e604d5e00",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
