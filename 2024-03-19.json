@@ -1,0 +1,26 @@
+{
+  "name": "Belle Vaughn",
+  "age": 18,
+  "address": {
+    "street": "Zufek Glen",
+    "city": "Nabutewe",
+    "state": "MI",
+    "zip": "28450"
+  },
+  "contact": {
+    "phone": "(915) 679-3817",
+    "servicePhone": "800119988"
+  },
+  "birthday": "1969-02-04T11:16:15.693Z",
+  "ip": "148.42.225.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Godfu bajje do hofakeuko dar fanojmah sipel fi cediib bugu vet abfo noame uveom nouke. Nalut wemca ibafudna veega cihino rimec tanzi poz geriwa dawuca bu poimka ifdalod gigedi osu lav vekjikjiw. Zotdiec wepukawo pozsuhom wievo hohcuvpo fol pa be ufgudaj osoerado unifivoz wo kize weja.",
+    "bio": "Ali pibac hug dirdetot towpacne kekilu irebowde sokolwo cocgo cijokev tigi urpi tuh oku epiik cowhem teuwcug. Hega roj jisose ibenahu sidpifof ne wivu te si kejoaka hivel cojvud okfuib optaka kemujno cowukiz. Pi uz eroopo lujjoz gozejci an kazfoc fa siflahwu vovwacuc nedomzad pe wa."
+  },
+  "apiKey": "6c97e35c5d3625cfe3f95f8d670456b14a8e4c1a146b64937c27223cb5270766",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
