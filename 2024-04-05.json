@@ -1,0 +1,26 @@
+{
+  "name": "Dean Simpson",
+  "age": 18,
+  "address": {
+    "street": "Epluj Park",
+    "city": "Monaes",
+    "state": "ID",
+    "zip": "96576"
+  },
+  "contact": {
+    "phone": "(817) 521-5642",
+    "servicePhone": "800145359"
+  },
+  "birthday": "2001-02-17T03:09:28.975Z",
+  "ip": "129.105.204.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Enelefi gansugvem tewmi do pofcolun va punsiwita zaceze fos jelleh sasod ugdi pu be dupvabib puk dewmo. Wov uge efgokew ikahe ilnegcok bicozka vuzmi ilufu ub amoasa fevkafu tagu edihe. Laforzoz utisul nutze pivhig ago soj rijeg zec wek ca bufsuki falar revfuz lishe ne.",
+    "bio": "Ekipeted jaguhuatu ca fo widilzu wedinef ahlihra osewozfik kamni hugunver ce kore perbo roup. Luop afeepa bu fime rufunda recijtoj zoz gawbateku oz covardu wahcinsu defo ka ugotofvag teztic ezo iparuzek. Zug vehbuckip vut ij vo aj lal kogput ciade cuz bi ercuj."
+  },
+  "apiKey": "d537f1ee763d0a65378d0309fbfaed719a5350bad7c00da464149285b4ffc763",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
